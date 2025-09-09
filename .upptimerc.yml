@@ -9,11 +9,16 @@ sites:
     url: https://cm.apps.tools-na150.prod.ole.redhat.com/
   - name: DLE Web
     url: https://web.dle.ole.redhat.com/
+    expectedStatusCodes:
+      - 403
+      - 200
   - name: Jenkins
     url: https://jenkins.prod.nextcle.com
     expectedStatusCodes:
       - 403
       - 200
+  - name: Shared Lab Report
+    url: https://labs.dle.ole.redhat.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
