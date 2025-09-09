@@ -8,7 +8,7 @@ sites:
   - name: Catalog Manager
     url: https://cm.apps.tools-na150.prod.ole.redhat.com/
   - name: DLE Web
-    url: https://web.dle.ole.redhat.com/
+    url: https://web.dle.ole.redhat.com
     expectedStatusCodes:
       - 403
       - 200
