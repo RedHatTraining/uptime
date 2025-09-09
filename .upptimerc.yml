@@ -5,6 +5,10 @@ repo: uptime # The name of this repository
 sites:
   - name: ROL Prod
     url: https://rol.redhat.com/rol/app/catalog
+  - name: Catalog Manager
+    url: https://cm.apps.tools-na150.prod.ole.redhat.com/
+  - name: DLE Web
+    url: https://web.dle.ole.redhat.com/
   - name: Jenkins
     url: https://jenkins.prod.nextcle.com
     expectedStatusCodes:
