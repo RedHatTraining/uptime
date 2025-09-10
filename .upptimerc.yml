@@ -17,7 +17,7 @@ sites:
   - name: Shared Lab Report
     url: https://labs.dle.ole.redhat.com
   - name: Factory PyPi
-    url: https://pypi.apps.tools-na100.prod.ole.redhat.com
+    url: https://pypi.apps.tools-na100.dev.ole.redhat.com
   - name: NA Prod PyPi
     url: https://pypi.apps.tools-na150.prod.ole.redhat.com
   - name: EMEA Prod PyPi
