@@ -26,9 +26,6 @@ sites:
     url: https://pypi.apps.tools-apac150.prod.ole.redhat.com
   - name: China Prod PyPi
     url: https://pypi.apps.tools-apac152.prod.ole.redhat.com
-  - name: Test broken
-    url: https://example-broken-url.doesntexist.com
-
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
