@@ -20,15 +20,21 @@
   --rh-gray-100: #F5F5F5;
   --rh-gray-200: #E0E0E0;
   --rh-gray-600: #6A6E73;
+  --bg: #151515;          /* page background */
+  --surface: #1F1F1F;     /* cards, panels */
+  --border: #333333;      /* borders on dark */
+  --text: #F5F5F5;        /* primary text on dark */
+  --muted: #C7C7C7;       /* secondary text */
 }
 
 body {
   font-family: 'Red Hat Text', system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, 'Helvetica Neue', Arial, sans-serif;
-  color: var(--rh-black);
+  color: var(--text);
+  background: var(--bg);
 }
 
 header, .Header, .app header {
-  background: #fff;
+  background: var(--bg);
   border-bottom: 4px solid var(--rh-red);
 }
 
@@ -58,7 +64,7 @@ a:hover {
 
 h1, h2, h3, .title {
   font-family: 'Red Hat Display', 'Red Hat Text', system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, 'Helvetica Neue', Arial, sans-serif;
-  color: var(--rh-black);
+  color: #FFFFFF;
 }
 
 button, .btn {
@@ -71,13 +77,14 @@ button:hover, .btn:hover {
 }
 
 .footer, footer {
-  border-top: 1px solid var(--rh-gray-200);
-  color: var(--rh-gray-600);
+  border-top: 1px solid var(--border);
+  color: var(--muted);
 }
 
 /* Card tweaks */
 .card, .endpoint, .graph {
-  border: 1px solid var(--rh-gray-200);
+  background: var(--surface);
+  border: 1px solid var(--border);
   box-shadow: none;
 }
 
