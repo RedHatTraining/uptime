@@ -5,6 +5,8 @@ repo: uptime # The name of this repository
 sites:
   - name: ROL Prod
     url: https://rol.redhat.com/rol/app/catalog
+  - name: ROL Factory
+    url: https://rol-factory.ole.redhat.com/rol/app/
   - name: Catalog Manager
     url: https://cm.apps.tools-na150.prod.ole.redhat.com/
   - name: Jenkins
@@ -14,6 +16,17 @@ sites:
       - 200
   - name: Shared Lab Report
     url: https://labs.dle.ole.redhat.com
+  - name: Factory PyPi
+    url: https://pypi.apps.tools-na100.prod.ole.redhat.com
+  - name: NA Prod PyPi
+    url: https://pypi.apps.tools-na150.prod.ole.redhat.com
+  - name: EMEA Prod PyPi
+    url: https://pypi.apps.tools-emea160.prod.ole.redhat.com
+  - name: APAC Prod PyPi
+    url: https://pypi.apps.tools-apac150.prod.ole.redhat.com
+  - name: China Prod PyPi
+    url: https://pypi.apps.tools-apac152.prod.ole.redhat.com
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
