@@ -95,19 +95,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/pypi.apps.tools-na100.dev.ole.redhat.com.ico",
     "slug": "factory-py-pi",
     "status": "up",
-    "uptime": "10.71%",
-    "uptimeDay": "10.71%",
-    "uptimeWeek": "10.71%",
-    "uptimeMonth": "10.71%",
-    "uptimeYear": "10.71%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 225,
     "timeDay": 225,
     "timeWeek": 225,
     "timeMonth": 225,
     "timeYear": 225,
-    "dailyMinutesDown": {
-      "2025-09-10": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "NA Prod PyPi",
