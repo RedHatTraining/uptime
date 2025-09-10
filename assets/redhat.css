@@ -1,0 +1,83 @@
+/* Red Hat brand-aligned overrides for Upptime status site */
+@font-face {
+  font-family: 'Red Hat Display';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: local('Red Hat Display Bold'), local('RedHatDisplay-Bold');
+}
+@font-face {
+  font-family: 'Red Hat Text';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Red Hat Text Regular'), local('RedHatText-Regular');
+}
+
+:root {
+  --rh-red: #EE0000; /* Red Hat Red */
+  --rh-black: #151515; /* Red Hat Black */
+  --rh-gray-100: #F5F5F5;
+  --rh-gray-200: #E0E0E0;
+  --rh-gray-600: #6A6E73;
+}
+
+body {
+  font-family: 'Red Hat Text', system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, 'Helvetica Neue', Arial, sans-serif;
+  color: var(--rh-black);
+}
+
+header, .Header, .app header {
+  background: #fff;
+  border-bottom: 4px solid var(--rh-red);
+}
+
+.logo, .app header img[alt*="Upptime"], .app header img {
+  height: 52px;
+}
+
+a {
+  color: var(--rh-red);
+}
+a:hover {
+  color: #CC0000;
+}
+
+.status-badge.up {
+  background: #E6F4EA;
+  color: #1E5228;
+}
+.status-badge.down {
+  background: #FDE7E7;
+  color: #7D0D0D;
+}
+.status-badge.degraded {
+  background: #FFF3E6;
+  color: #8A4500;
+}
+
+h1, h2, h3, .title {
+  font-family: 'Red Hat Display', 'Red Hat Text', system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, 'Helvetica Neue', Arial, sans-serif;
+  color: var(--rh-black);
+}
+
+button, .btn {
+  background: var(--rh-red);
+  color: #fff;
+  border: none;
+}
+button:hover, .btn:hover {
+  background: #CC0000;
+}
+
+.footer, footer {
+  border-top: 1px solid var(--rh-gray-200);
+  color: var(--rh-gray-600);
+}
+
+/* Card tweaks */
+.card, .endpoint, .graph {
+  border: 1px solid var(--rh-gray-200);
+  box-shadow: none;
+}
+
