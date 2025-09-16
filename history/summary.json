@@ -4,19 +4,19 @@
     "url": "https://rol.redhat.com/rol/app/catalog",
     "icon": "https://icons.duckduckgo.com/ip3/rol.redhat.com.ico",
     "slug": "rol-prod",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 160,
-    "timeDay": 190,
-    "timeWeek": 160,
-    "timeMonth": 160,
-    "timeYear": 160,
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "98.99%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 159,
+    "timeDay": 170,
+    "timeWeek": 159,
+    "timeMonth": 159,
+    "timeYear": 159,
     "dailyMinutesDown": {
-      "2025-09-16": 0
+      "2025-09-16": 15
     }
   },
   {
