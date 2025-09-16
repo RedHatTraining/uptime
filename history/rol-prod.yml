@@ -1,7 +1,7 @@
 url: https://rol.redhat.com/rol/app/catalog
-status: down
-code: 502
-responseTime: 222
-lastUpdated: 2025-09-16T14:11:59.541Z
+status: up
+code: 200
+responseTime: 129
+lastUpdated: 2025-09-16T14:26:31.421Z
 startTime: 2025-09-09T16:38:54.050Z
 generator: Upptime <https://github.com/upptime/upptime>
