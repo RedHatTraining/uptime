@@ -59,11 +59,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/jenkins.prod.nextcle.com.ico",
     "slug": "jenkins",
     "status": "up",
-    "uptime": "79.06%",
-    "uptimeDay": "0.01%",
+    "uptime": "79.12%",
+    "uptimeDay": "3.47%",
     "uptimeWeek": "61.57%",
-    "uptimeMonth": "79.06%",
-    "uptimeYear": "79.06%",
+    "uptimeMonth": "79.12%",
+    "uptimeYear": "79.12%",
     "time": 221,
     "timeDay": 265,
     "timeWeek": 202,
@@ -81,9 +81,9 @@
     "url": "https://labs.dle.ole.redhat.com",
     "icon": "https://icons.duckduckgo.com/ip3/labs.dle.ole.redhat.com.ico",
     "slug": "shared-lab-report",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -92,7 +92,9 @@
     "timeWeek": 320,
     "timeMonth": 310,
     "timeYear": 310,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-22": 0
+    }
   },
   {
     "name": "Factory PyPi",
