@@ -3,8 +3,6 @@ owner: RedHatTraining # Your GitHub organization or username, where this reposit
 repo: uptime # The name of this repository
 
 sites:
-  - name: ROL Prod
-    url: https://rol.redhat.com/rol/app/catalog
   - name: ROL Factory
     url: https://rol-factory.ole.redhat.com/rol/app/
   - name: Catalog Manager
