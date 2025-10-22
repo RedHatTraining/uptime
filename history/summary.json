@@ -41,11 +41,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/jenkins.prod.nextcle.com.ico",
     "slug": "jenkins",
     "status": "up",
-    "uptime": "93.68%",
+    "uptime": "93.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.04%",
-    "uptimeYear": "93.68%",
+    "uptimeMonth": "99.18%",
+    "uptimeYear": "93.69%",
     "time": 212,
     "timeDay": 275,
     "timeWeek": 177,
@@ -156,19 +156,19 @@
     "url": "https://pypi.apps.tools-apac152.prod.ole.redhat.com",
     "icon": "https://icons.duckduckgo.com/ip3/pypi.apps.tools-apac152.prod.ole.redhat.com.ico",
     "slug": "china-prod-py-pi",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 795,
     "timeDay": 1044,
     "timeWeek": 842,
     "timeMonth": 781,
     "timeYear": 795,
     "dailyMinutesDown": {
-      "2025-10-22": 7
+      "2025-10-22": 0
     }
   }
 ]
