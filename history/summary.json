@@ -214,18 +214,20 @@
     "url": "https://pypi.apps.tools-na.prod.nextcle.com",
     "icon": "https://icons.duckduckgo.com/ip3/pypi.apps.tools-na.prod.nextcle.com.ico",
     "slug": "global-prod-pypi-geo-balanced-dns-from-apac",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 24,
-    "timeDay": 24,
-    "timeWeek": 24,
-    "timeMonth": 24,
-    "timeYear": 24,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.39%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.39%",
+    "uptimeMonth": "99.39%",
+    "uptimeYear": "99.39%",
+    "time": 22,
+    "timeDay": 22,
+    "timeWeek": 22,
+    "timeMonth": 22,
+    "timeYear": 22,
+    "dailyMinutesDown": {
+      "2025-11-04": 0
+    }
   },
   {
     "name": "Global Prod Pypi (Geo-balanced DNS from China)",
