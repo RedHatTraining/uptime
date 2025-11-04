@@ -119,9 +119,9 @@
     "url": "https://pypi.apps.tools-emea160.prod.ole.redhat.com",
     "icon": "https://icons.duckduckgo.com/ip3/pypi.apps.tools-emea160.prod.ole.redhat.com.ico",
     "slug": "emea-prod-py-pi",
-    "status": "up",
+    "status": "down",
     "uptime": "97.62%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.69%",
     "uptimeYear": "97.62%",
@@ -131,6 +131,7 @@
     "timeMonth": 411,
     "timeYear": 415,
     "dailyMinutesDown": {
+      "2025-11-04": 0,
       "2025-10-12": 933,
       "2025-10-11": 956
     }
@@ -215,19 +216,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/pypi.apps.tools-na.prod.nextcle.com.ico",
     "slug": "global-prod-pypi-geo-balanced-dns-from-apac",
     "status": "up",
-    "uptime": "95.96%",
-    "uptimeDay": "95.96%",
-    "uptimeWeek": "95.96%",
-    "uptimeMonth": "95.96%",
-    "uptimeYear": "95.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 229,
     "timeDay": 229,
     "timeWeek": 229,
     "timeMonth": 229,
     "timeYear": 229,
-    "dailyMinutesDown": {
-      "2025-11-04": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Global Prod Pypi (Geo-balanced DNS from China)",
