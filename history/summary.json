@@ -179,20 +179,18 @@
     "url": "https://pypi.apps.tools-na.prod.nextcle.com",
     "icon": "https://icons.duckduckgo.com/ip3/pypi.apps.tools-na.prod.nextcle.com.ico",
     "slug": "global-prod-pypi-geo-balanced-dns-from-na",
-    "status": "down",
-    "uptime": "99.48%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.48%",
-    "uptimeMonth": "99.48%",
-    "uptimeYear": "99.48%",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 30,
-    "timeDay": 29,
+    "timeDay": 31,
     "timeWeek": 30,
     "timeMonth": 30,
     "timeYear": 30,
-    "dailyMinutesDown": {
-      "2025-11-05": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Global Prod Pypi (Geo-balanced DNS from EMEA)",
