@@ -28,18 +28,30 @@ sites:
     url: https://pypi.apps.tools-na.prod.nextcle.com
     type: globalping
     location: u-richardallred:na-osp
+    expectedStatusCodes:
+      - 422
+      - 200
   - name: Global Prod Pypi (Geo-balanced DNS from EMEA)
     url: https://pypi.apps.tools-na.prod.nextcle.com
     type: globalping
     location: u-richardallred:emea-osp
+    expectedStatusCodes:
+      - 422
+      - 200
   - name: Global Prod Pypi (Geo-balanced DNS from APAC)
     url: https://pypi.apps.tools-na.prod.nextcle.com
     type: globalping
     location: u-richardallred:apac-osp
+    expectedStatusCodes:
+      - 422
+      - 200
   - name: Global Prod Pypi (Geo-balanced DNS from China)
     url: https://pypi.apps.tools-na.prod.nextcle.com
     type: globalping
     location: u-richardallred:china-osp
+    expectedStatusCodes:
+      - 422
+      - 200
 
     
 
@@ -52,7 +64,7 @@ status-website:
   theme: night
   name: Red Hat Training Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a status page which uses **real-time** monitoring through Github actions to check the uptime of the following sites/services used by Red Hat Training.
+  introMessage: This is a status page that uses **real-time** monitoring via Github Actions to check the uptime of the following sites/services used by Red Hat Training.
   navbar:
     - title: GitHub Repo
       href: https://github.com/$OWNER/$REPO
