@@ -1,7 +1,7 @@
 url: https://pypi.apps.tools-na.prod.nextcle.com
-status: up
-code: 200
-responseTime: 29
-lastUpdated: 2025-11-04T23:05:46.472Z
+status: down
+code: 422
+responseTime: 0
+lastUpdated: 2025-11-05T20:43:29.236Z
 startTime: 2025-11-04T17:09:58.668Z
 generator: Upptime <https://github.com/upptime/upptime>
