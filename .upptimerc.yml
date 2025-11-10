@@ -24,34 +24,34 @@ sites:
     url: https://pypi.apps.tools-apac150.prod.ole.redhat.com
   - name: China Prod PyPi
     url: https://pypi.apps.tools-apac152.prod.ole.redhat.com
-  - name: Global Prod Pypi (Geo-balanced DNS from NA)
-    url: https://pypi.apps.tools-na.prod.nextcle.com
-    expectedStatusCodes:
-      - 422
-      - 200
-    type: globalping
-    location: u-richardallred:na-osp
-  - name: Global Prod Pypi (Geo-balanced DNS from EMEA)
-    url: https://pypi.apps.tools-na.prod.nextcle.com
-    expectedStatusCodes:
-      - 422
-      - 200
-    type: globalping
-    location: u-richardallred:emea-osp
-  - name: Global Prod Pypi (Geo-balanced DNS from APAC)
-    url: https://pypi.apps.tools-na.prod.nextcle.com
-    expectedStatusCodes:
-      - 422
-      - 200
-    type: globalping
-    location: u-richardallred:apac-osp
-  - name: Global Prod Pypi (Geo-balanced DNS from China)
-    url: https://pypi.apps.tools-na.prod.nextcle.com
-    expectedStatusCodes:
-      - 422
-      - 200
-    type: globalping
-    location: u-richardallred:china-osp
+  # - name: Global Prod Pypi (Geo-balanced DNS from NA)
+  #   url: https://pypi.apps.tools-na.prod.nextcle.com
+  #   expectedStatusCodes:
+  #     - 422
+  #     - 200
+  #   type: globalping
+  #   location: u-richardallred:na-osp
+  # - name: Global Prod Pypi (Geo-balanced DNS from EMEA)
+  #   url: https://pypi.apps.tools-na.prod.nextcle.com
+  #   expectedStatusCodes:
+  #     - 422
+  #     - 200
+  #   type: globalping
+  #   location: u-richardallred:emea-osp
+  # - name: Global Prod Pypi (Geo-balanced DNS from APAC)
+  #   url: https://pypi.apps.tools-na.prod.nextcle.com
+  #   expectedStatusCodes:
+  #     - 422
+  #     - 200
+  #   type: globalping
+  #   location: u-richardallred:apac-osp
+  # - name: Global Prod Pypi (Geo-balanced DNS from China)
+  #   url: https://pypi.apps.tools-na.prod.nextcle.com
+  #   expectedStatusCodes:
+  #     - 422
+  #     - 200
+  #   type: globalping
+  #   location: u-richardallred:china-osp
     
 
     
