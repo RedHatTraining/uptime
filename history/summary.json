@@ -180,18 +180,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pypi.apps.tools-na.prod.nextcle.com.ico",
     "slug": "global-prod-pypi-geo-balanced-dns-from-na",
     "status": "down",
-    "uptime": "99.42%",
-    "uptimeDay": "96.57%",
-    "uptimeWeek": "99.42%",
-    "uptimeMonth": "99.42%",
-    "uptimeYear": "99.42%",
+    "uptime": "99.32%",
+    "uptimeDay": "95.95%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.32%",
+    "uptimeYear": "99.32%",
     "time": 30,
     "timeDay": 63,
     "timeWeek": 30,
     "timeMonth": 30,
     "timeYear": 30,
     "dailyMinutesDown": {
-      "2025-11-10": 49
+      "2025-11-10": 58
     }
   },
   {
@@ -200,18 +200,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pypi.apps.tools-na.prod.nextcle.com.ico",
     "slug": "global-prod-pypi-geo-balanced-dns-from-emea",
     "status": "down",
-    "uptime": "99.42%",
-    "uptimeDay": "96.57%",
-    "uptimeWeek": "99.42%",
-    "uptimeMonth": "99.42%",
-    "uptimeYear": "99.42%",
+    "uptime": "99.32%",
+    "uptimeDay": "95.96%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.32%",
+    "uptimeYear": "99.32%",
     "time": 44,
     "timeDay": 52,
     "timeWeek": 44,
     "timeMonth": 44,
     "timeYear": 44,
     "dailyMinutesDown": {
-      "2025-11-10": 49
+      "2025-11-10": 58
     }
   },
   {
@@ -220,18 +220,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pypi.apps.tools-na.prod.nextcle.com.ico",
     "slug": "global-prod-pypi-geo-balanced-dns-from-apac",
     "status": "down",
-    "uptime": "99.17%",
-    "uptimeDay": "95.96%",
-    "uptimeWeek": "99.17%",
-    "uptimeMonth": "99.17%",
-    "uptimeYear": "99.17%",
+    "uptime": "99.06%",
+    "uptimeDay": "95.34%",
+    "uptimeWeek": "99.06%",
+    "uptimeMonth": "99.06%",
+    "uptimeYear": "99.06%",
     "time": 85,
     "timeDay": 26,
     "timeWeek": 85,
     "timeMonth": 85,
     "timeYear": 85,
     "dailyMinutesDown": {
-      "2025-11-10": 58,
+      "2025-11-10": 67,
       "2025-11-05": 13
     }
   },
@@ -240,9 +240,9 @@
     "url": "https://pypi.apps.tools-na.prod.nextcle.com",
     "icon": "https://icons.duckduckgo.com/ip3/pypi.apps.tools-na.prod.nextcle.com.ico",
     "slug": "global-prod-pypi-geo-balanced-dns-from-china",
-    "status": "up",
+    "status": "down",
     "uptime": "99.14%",
-    "uptimeDay": "95.98%",
+    "uptimeDay": "95.96%",
     "uptimeWeek": "99.14%",
     "uptimeMonth": "99.14%",
     "uptimeYear": "99.14%",
