@@ -179,9 +179,9 @@
     "url": "https://pypi.apps.tools-na.prod.nextcle.com",
     "icon": "https://icons.duckduckgo.com/ip3/pypi.apps.tools-na.prod.nextcle.com.ico",
     "slug": "global-prod-pypi-geo-balanced-dns-from-na",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -190,16 +190,18 @@
     "timeWeek": 30,
     "timeMonth": 30,
     "timeYear": 30,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-10": 0
+    }
   },
   {
     "name": "Global Prod Pypi (Geo-balanced DNS from EMEA)",
     "url": "https://pypi.apps.tools-na.prod.nextcle.com",
     "icon": "https://icons.duckduckgo.com/ip3/pypi.apps.tools-na.prod.nextcle.com.ico",
     "slug": "global-prod-pypi-geo-balanced-dns-from-emea",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -208,7 +210,9 @@
     "timeWeek": 44,
     "timeMonth": 44,
     "timeYear": 44,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-10": 0
+    }
   },
   {
     "name": "Global Prod Pypi (Geo-balanced DNS from APAC)",
@@ -216,18 +220,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pypi.apps.tools-na.prod.nextcle.com.ico",
     "slug": "global-prod-pypi-geo-balanced-dns-from-apac",
     "status": "down",
-    "uptime": "99.84%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
+    "uptime": "99.74%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.74%",
     "time": 85,
     "timeDay": 26,
     "timeWeek": 85,
     "timeMonth": 85,
     "timeYear": 85,
     "dailyMinutesDown": {
-      "2025-11-10": 0,
+      "2025-11-10": 9,
       "2025-11-05": 13
     }
   },
@@ -237,18 +241,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pypi.apps.tools-na.prod.nextcle.com.ico",
     "slug": "global-prod-pypi-geo-balanced-dns-from-china",
     "status": "down",
-    "uptime": "99.81%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
+    "uptime": "99.70%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.70%",
     "time": 406,
     "timeDay": 1675,
     "timeWeek": 406,
     "timeMonth": 406,
     "timeYear": 406,
     "dailyMinutesDown": {
-      "2025-11-10": 0,
+      "2025-11-10": 9,
       "2025-11-08": 16
     }
   }
