@@ -101,18 +101,20 @@
     "url": "https://pypi.apps.tools-na150.prod.ole.redhat.com",
     "icon": "https://icons.duckduckgo.com/ip3/pypi.apps.tools-na150.prod.ole.redhat.com.ico",
     "slug": "na-prod-py-pi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 176,
-    "timeDay": 162,
+    "timeDay": 161,
     "timeWeek": 157,
     "timeMonth": 181,
     "timeYear": 176,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-21": 0
+    }
   },
   {
     "name": "EMEA Prod PyPi",
@@ -161,7 +163,7 @@
     "slug": "china-prod-py-pi",
     "status": "up",
     "uptime": "96.76%",
-    "uptimeDay": "0.01%",
+    "uptimeDay": "6.79%",
     "uptimeWeek": "67.89%",
     "uptimeMonth": "92.34%",
     "uptimeYear": "96.76%",
