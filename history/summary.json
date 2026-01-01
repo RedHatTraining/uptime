@@ -43,11 +43,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/jenkins.prod.nextcle.com.ico",
     "slug": "jenkins",
     "status": "up",
-    "uptime": "97.63%",
+    "uptime": "97.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.63%",
+    "uptimeYear": "97.64%",
     "time": 234,
     "timeDay": 384,
     "timeWeek": 268,
@@ -149,9 +149,9 @@
     "url": "https://pypi.apps.tools-apac150.prod.ole.redhat.com",
     "icon": "https://icons.duckduckgo.com/ip3/pypi.apps.tools-apac150.prod.ole.redhat.com.ico",
     "slug": "apac-prod-py-pi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -160,7 +160,9 @@
     "timeWeek": 575,
     "timeMonth": 621,
     "timeYear": 634,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-01": 0
+    }
   },
   {
     "name": "China Prod PyPi",
