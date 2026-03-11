@@ -4,18 +4,20 @@
     "url": "https://rol-factory.ole.redhat.com/rol/app/",
     "icon": "https://icons.duckduckgo.com/ip3/rol-factory.ole.redhat.com.ico",
     "slug": "rol-factory",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 279,
-    "timeDay": 293,
-    "timeWeek": 278,
-    "timeMonth": 273,
-    "timeYear": 279,
-    "dailyMinutesDown": {}
+    "time": 278,
+    "timeDay": 259,
+    "timeWeek": 271,
+    "timeMonth": 271,
+    "timeYear": 278,
+    "dailyMinutesDown": {
+      "2026-03-11": 0
+    }
   },
   {
     "name": "Catalog Manager",
