@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 279,
-    "timeDay": 402,
-    "timeWeek": 323,
-    "timeMonth": 297,
+    "timeDay": 416,
+    "timeWeek": 347,
+    "timeMonth": 302,
     "timeYear": 279,
     "dailyMinutesDown": {
       "2026-03-11": 43
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 187,
-    "timeDay": 201,
-    "timeWeek": 177,
-    "timeMonth": 190,
+    "timeDay": 154,
+    "timeWeek": 176,
+    "timeMonth": 188,
     "timeYear": 187,
     "dailyMinutesDown": {
       "2025-12-22": 135
@@ -51,17 +51,17 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "98.93%",
     "time": 219,
-    "timeDay": 114,
-    "timeWeek": 179,
-    "timeMonth": 185,
+    "timeDay": 233,
+    "timeWeek": 176,
+    "timeMonth": 187,
     "timeYear": 219,
     "dailyMinutesDown": {
-      "2026-04-27": 49,
-      "2026-03-25": 13,
       "2025-09-22": 776,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
-      "2025-09-19": 217
+      "2025-09-19": 217,
+      "2026-03-25": 13,
+      "2026-04-27": 49
     }
   },
   {
@@ -75,16 +75,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.55%",
-    "time": 303,
-    "timeDay": 325,
-    "timeWeek": 277,
-    "timeMonth": 301,
-    "timeYear": 303,
+    "time": 302,
+    "timeDay": 275,
+    "timeWeek": 285,
+    "timeMonth": 297,
+    "timeYear": 302,
     "dailyMinutesDown": {
-      "2026-03-18": 1083,
-      "2026-03-17": 330,
+      "2025-10-23": 112,
       "2025-12-22": 135,
-      "2025-10-23": 112
+      "2026-03-18": 1083,
+      "2026-03-17": 330
     }
   },
   {
@@ -93,19 +93,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pypi.apps.tools-na100.dev.ole.redhat.com.ico",
     "slug": "factory-py-pi",
     "status": "up",
-    "uptime": "99.83%",
+    "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.83%",
+    "uptimeYear": "99.84%",
     "time": 194,
-    "timeDay": 272,
-    "timeWeek": 174,
-    "timeMonth": 176,
+    "timeDay": 144,
+    "timeWeek": 173,
+    "timeMonth": 173,
     "timeYear": 194,
     "dailyMinutesDown": {
-      "2025-12-22": 134,
-      "2025-12-09": 470
+      "2025-12-09": 470,
+      "2025-12-22": 134
     }
   },
   {
@@ -120,8 +120,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 181,
-    "timeDay": 208,
-    "timeWeek": 172,
+    "timeDay": 163,
+    "timeWeek": 173,
     "timeMonth": 176,
     "timeYear": 181,
     "dailyMinutesDown": {
@@ -134,24 +134,24 @@
     "icon": "https://icons.duckduckgo.com/ip3/pypi.apps.tools-emea160.prod.ole.redhat.com.ico",
     "slug": "emea-prod-py-pi",
     "status": "up",
-    "uptime": "98.21%",
+    "uptime": "98.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "94.93%",
-    "uptimeYear": "98.21%",
+    "uptimeYear": "98.22%",
     "time": 418,
-    "timeDay": 358,
-    "timeWeek": 392,
-    "timeMonth": 392,
+    "timeDay": 497,
+    "timeWeek": 399,
+    "timeMonth": 398,
     "timeYear": 418,
     "dailyMinutesDown": {
-      "2026-05-05": 1061,
-      "2026-05-04": 1160,
+      "2025-10-12": 933,
+      "2025-10-11": 956,
+      "2025-11-04": 92,
       "2026-03-06": 1193,
       "2026-03-05": 1154,
-      "2025-11-04": 92,
-      "2025-10-12": 933,
-      "2025-10-11": 956
+      "2026-05-05": 1061,
+      "2026-05-04": 1160
     }
   },
   {
@@ -165,11 +165,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 639,
-    "timeDay": 716,
-    "timeWeek": 609,
-    "timeMonth": 647,
-    "timeYear": 639,
+    "time": 638,
+    "timeDay": 469,
+    "timeWeek": 608,
+    "timeMonth": 638,
+    "timeYear": 638,
     "dailyMinutesDown": {}
   },
   {
@@ -183,18 +183,18 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.56%",
     "uptimeYear": "99.03%",
-    "time": 924,
-    "timeDay": 831,
-    "timeWeek": 746,
-    "timeMonth": 1400,
-    "timeYear": 924,
+    "time": 923,
+    "timeDay": 612,
+    "timeWeek": 743,
+    "timeMonth": 1394,
+    "timeYear": 923,
     "dailyMinutesDown": {
-      "2026-04-30": 193,
-      "2026-01-05": 16,
+      "2025-10-27": 119,
       "2025-11-21": 887,
       "2025-11-20": 1440,
       "2025-11-19": 910,
-      "2025-10-27": 119
+      "2026-01-05": 16,
+      "2026-04-30": 193
     }
   }
 ]
