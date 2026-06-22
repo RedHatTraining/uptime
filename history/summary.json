@@ -71,10 +71,10 @@
     "url": "https://labs.dle.ole.redhat.com",
     "icon": "https://icons.duckduckgo.com/ip3/labs.dle.ole.redhat.com.ico",
     "slug": "shared-lab-report",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.25%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.24%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.58%",
     "time": 302,
@@ -87,7 +87,8 @@
       "2025-12-22": 135,
       "2026-03-18": 1083,
       "2026-03-17": 330,
-      "2026-06-16": 76
+      "2026-06-16": 76,
+      "2026-06-22": 0
     }
   },
   {
@@ -137,11 +138,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/pypi.apps.tools-emea160.prod.ole.redhat.com.ico",
     "slug": "emea-prod-py-pi",
     "status": "up",
-    "uptime": "98.40%",
+    "uptime": "98.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.40%",
+    "uptimeYear": "98.41%",
     "time": 417,
     "timeDay": 363,
     "timeWeek": 373,
