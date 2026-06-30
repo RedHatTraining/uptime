@@ -1,7 +1,7 @@
 url: https://rol-factory.ole.redhat.com/rol/app/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-06-30T23:35:45.237Z
+status: up
+code: 200
+responseTime: 264
+lastUpdated: 2026-06-30T23:51:33.713Z
 startTime: 2025-09-10T15:49:44.361Z
 generator: Upptime <https://github.com/upptime/upptime>
