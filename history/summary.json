@@ -5,20 +5,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/rol-factory.ole.redhat.com.ico",
     "slug": "rol-factory",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.98%",
-    "time": 280,
+    "uptime": "99.97%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.97%",
+    "time": 281,
     "timeDay": 0,
     "timeWeek": 269,
     "timeMonth": 295,
-    "timeYear": 280,
+    "timeYear": 281,
     "dailyMinutesDown": {
       "2026-03-11": 43,
       "2026-06-02": 48,
-      "2026-06-30": 10
+      "2026-06-30": 16
     }
   },
   {
@@ -46,16 +46,16 @@
     "url": "https://jenkins.prod.nextcle.com",
     "icon": "https://icons.duckduckgo.com/ip3/jenkins.prod.nextcle.com.ico",
     "slug": "jenkins",
-    "status": "down",
+    "status": "up",
     "uptime": "99.06%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.06%",
     "time": 216,
-    "timeDay": 0,
-    "timeWeek": 199,
-    "timeMonth": 196,
+    "timeDay": 135,
+    "timeWeek": 190,
+    "timeMonth": 194,
     "timeYear": 216,
     "dailyMinutesDown": {
       "2025-09-22": 776,
@@ -65,7 +65,7 @@
       "2026-03-25": 13,
       "2026-04-27": 49,
       "2026-06-02": 41,
-      "2026-06-30": 2
+      "2026-06-30": 9
     }
   },
   {
