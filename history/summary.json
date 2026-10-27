@@ -96,21 +96,21 @@
     "url": "https://pypi.apps.tools-na100.dev.ole.redhat.com",
     "icon": "https://icons.duckduckgo.com/ip3/pypi.apps.tools-na100.dev.ole.redhat.com.ico",
     "slug": "factory-py-pi",
-    "status": "down",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.88%",
     "time": 184,
-    "timeDay": 140,
-    "timeWeek": 134,
-    "timeMonth": 152,
+    "timeDay": 168,
+    "timeWeek": 144,
+    "timeMonth": 155,
     "timeYear": 184,
     "dailyMinutesDown": {
       "2025-12-09": 470,
       "2025-12-22": 134,
-      "2026-10-27": 0
+      "2026-10-27": 10
     }
   },
   {
