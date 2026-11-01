@@ -137,9 +137,9 @@
     "url": "https://pypi.apps.tools-emea160.prod.ole.redhat.com",
     "icon": "https://icons.duckduckgo.com/ip3/pypi.apps.tools-emea160.prod.ole.redhat.com.ico",
     "slug": "emea-prod-py-pi",
-    "status": "up",
+    "status": "down",
     "uptime": "98.38%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.51%",
@@ -156,7 +156,8 @@
       "2026-05-04": 1160,
       "2026-07-06": 513,
       "2026-07-05": 1440,
-      "2026-07-04": 1196
+      "2026-07-04": 1196,
+      "2026-11-01": 0
     }
   },
   {
